@@ -12,7 +12,7 @@ rasatour
 
    ```bash
    git clone https://github.com/rasatria01/rasatour.git
-   cd your-project
+   
 
 3. Move the project to the XAMPP htdocs directory.
 4. Create a new database: Create a new database with the name db_tour in phpMyAdmin.
