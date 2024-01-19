@@ -14,7 +14,7 @@ rasatour
    git clone https://github.com/rasatria01/rasatour.git
    
 
-3. Move the project to the XAMPP htdocs directory.
+3. Move the file inside project/code folder to the XAMPP htdocs/rasatour directory.
 4. Create a new database: Create a new database with the name db_tour in phpMyAdmin.
 5. Import the SQL file named db_tour.sql located in the projects's directory.
 
